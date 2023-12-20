@@ -1,0 +1,14 @@
+/Users/asmaamohamed/Desktop/B503/Task4.3/Task4.3/bin/Debug/net7.0/Task4.3
+/Users/asmaamohamed/Desktop/B503/Task4.3/Task4.3/bin/Debug/net7.0/Task4.3.deps.json
+/Users/asmaamohamed/Desktop/B503/Task4.3/Task4.3/bin/Debug/net7.0/Task4.3.runtimeconfig.json
+/Users/asmaamohamed/Desktop/B503/Task4.3/Task4.3/bin/Debug/net7.0/Task4.3.dll
+/Users/asmaamohamed/Desktop/B503/Task4.3/Task4.3/bin/Debug/net7.0/Task4.3.pdb
+/Users/asmaamohamed/Desktop/B503/Task4.3/Task4.3/obj/Debug/net7.0/Task4.3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asmaamohamed/Desktop/B503/Task4.3/Task4.3/obj/Debug/net7.0/Task4.3.AssemblyInfoInputs.cache
+/Users/asmaamohamed/Desktop/B503/Task4.3/Task4.3/obj/Debug/net7.0/Task4.3.AssemblyInfo.cs
+/Users/asmaamohamed/Desktop/B503/Task4.3/Task4.3/obj/Debug/net7.0/Task4.3.csproj.CoreCompileInputs.cache
+/Users/asmaamohamed/Desktop/B503/Task4.3/Task4.3/obj/Debug/net7.0/Task4.3.dll
+/Users/asmaamohamed/Desktop/B503/Task4.3/Task4.3/obj/Debug/net7.0/refint/Task4.3.dll
+/Users/asmaamohamed/Desktop/B503/Task4.3/Task4.3/obj/Debug/net7.0/Task4.3.pdb
+/Users/asmaamohamed/Desktop/B503/Task4.3/Task4.3/obj/Debug/net7.0/Task4.3.genruntimeconfig.cache
+/Users/asmaamohamed/Desktop/B503/Task4.3/Task4.3/obj/Debug/net7.0/ref/Task4.3.dll
